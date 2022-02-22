@@ -118,6 +118,9 @@ http://mantul.biz.id:8888/live/Arkan/54647/67.m3u8
 #EXTINF:-1 group-title="MOM Zah", Zee bioskop
 http://mantul.biz.id:8888/live/Arkan/54647/261.m3u8
 
+#EXTINF:-1 group-title="MOM Zah", Zee bioskop(DnzTv)
+http://group2-swiftservesd-1.dens.tv/s/s32/01.m3u8
+
 #EXTINF:-1 group-title="MOM Zah", Bioskop Indonesia
 http://mantul.biz.id:8888/live/Arkan/54647/243.m3u8
 
