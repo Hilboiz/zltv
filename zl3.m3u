@@ -1,0 +1,191 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/22.jpg"group-title="Narasi Tv",RTV
+http://45.126.83.51/qwr9ew/s/s12/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/9.jpg"group-title="Narasi Tv", SCTV
+http://45.126.83.51/qwr9ew/s/s03/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/02/sinema-indonesia.jpg"group-title="Narasi Tv",SINEMA INDONESIA
+http://210.210.155.35/uq2663/h/h155/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/55.jpg"group-title="Narasi Tv",THRILL
+http://45.126.83.51/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/11.jpg"group-title="Narasi Tv",TRANS TV
+http://45.126.83.51/qwr9ew/s/s05/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/12.jpg"group-title="Narasi Tv", TRANS7
+http://45.126.83.51/uq2663/h/h11/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/59.jpg"group-title="Narasi Tv", TVN
+http://210.210.155.35:80/dr9445/h/h20/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/58.jpg"group-title="Narasi Tv", TVN MOVIE
+http://210.210.155.35:80/dr9445/h/h21/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/7.jpg"group-title="Narasi Tv",TVONE
+http://210.210.155.35/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/38.jpg"group-title="Narasi Tv",ANIPLUS
+http://210.210.155.35:80/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/8.jpg"group-title="Narasi Tv",ANTV
+http://45.126.83.51/qwr9ew/s/s07/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/93.jpg"group-title="Narasi Tv",AXN
+http://210.210.155.35:80/dr9445/h/h141/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/97.jpg"group-title="Narasi Tv",Animax
+http://210.210.155.35/dr9445/h/h144/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/110.jpg"group-title="Narasi Tv", CCM
+http://45.126.83.51/qwr9ew/s/s31/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/99.jpg"group-title="Narasi Tv",CELESTIAL MOVIES
+http://45.126.83.51/qwr9ew/s/s33/01.m3u8
+
+#EXTINF:1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1164.png"group-title="Narasi Tv",Bein Sports Xtra
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/92.jpg"group-title="Narasi Tv", My Cinema Europe
+http://210.210.155.35/uq2663/h/h18/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/87.jpg"group-title="Narasi Tv",CINEMA WORLD
+http://210.210.155.35:80/dr9445/h/h04/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/107.jpg"group-title="Narasi Tv",DENS PLAY
+http://210.210.155.35/x6bnqe/s/s101/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/26.jpg"group-title="Narasi Tv",EGG
+http://210.210.155.35/uq2663/h/h22/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/60.jpg"group-title="Narasi Tv",FIGHT SPORT
+http://210.210.155.35:80/dr9445/h/h05/01.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/5.jpg"group-title="Narasi Tv", GEM
+http://210.210.155.35/uq2663/h/h19/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/101.jpg"group-title="Narasi Tv",HITS
+http://210.210.155.35:80/dr9445/h/h37/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/10.jpg"group-title="Narasi Tv",INDOSIAR
+http://45.126.83.51/qwr9ew/s/s04/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/100.jpg"group-title="Narasi Tv",K+
+http://210.210.155.35/uq2663/h/h08/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/49.jpg"group-title="Narasi Tv",KIX
+http://210.210.155.35:80/dr9445/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/14.jpg"group-title="Narasi Tv",KOMPAS TV
+http://210.210.155.35/qwr9ew/s/s104/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/6.jpg"group-title="Narasi Tv",METRO TV
+http://210.210.155.35/uq2663/h/h12/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/13.jpg"group-title="Narasi Tv",NET
+http://45.126.83.51/qwr9ew/s/s08/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/89.jpg"group-title="Narasi Tv",ONE
+http://210.210.155.35/uq2663/h/h143/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/17.jpg"group-title="Narasi Tv",TVRI
+http://45.126.83.51/qwr9ew/s/s11/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/106.jpg"group-title="Narasi Tv",TVRI SPORT
+http://210.210.155.35/qwr9ew/s/s107/01.m3u8
+
+#EXTINF-1 tvg-logo=""group-title="Narasi Tv", JAKTV
+http://rr3.dens.tv/s/s46/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/26/items/sinema-indonesia/jtv-surabaya.png"group-title="Narasi Tv",JTV
+http://rr3.dens.tv/s/s91/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/94.jpg"group-title="Narasi Tv",Elshinta
+http://rr2.dens.tv/s/s10/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/21.jpg"group-title="Narasi Tv",Rodja tv
+http://rr2.dens.tv/s/s14/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/23.jpg"group-title="Narasi Tv",Daai tv
+http://rr2.dens.tv/s/s13/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/105.jpg"group-title="Narasi Tv", My TV
+http://rr3.dens.tv/s/s88/index1.m3u8?app_type=web&amp;userid=50n13N0v14nd1&amp;tkn=829341hrjhaq0q30q&amp;chname=MYTV<br>
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn0LNhY2iVTL6mUrmtNT3inGKByBoHJvH4Gw&usqp=CAU"group-title="Narasi Tv",ZEE BIOSKOP
+http://45.126.83.51/qwr9ew/s/s32/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/44.jpg"group-title="Narasi Tv",ROCK EXTREME
+http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://stage.dens.tv/images/channel-logo/39.jpg"group-title="Narasi Tv",ROCK ENTERTAINMENT
+http://210.210.155.35:80/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://ia801404.us.archive.org/26/items/sinema-indonesia/SCTV.png" group-title="Vidio",  SCTV
+https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="https://ia801404.us.archive.org/26/items/sinema-indonesia/GTV-LOGO.png" group-title="Vidio",  Gtv
+https://iptv.mwafa.net/vidio/778/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/20211104-103938/kompasTV.png" group-title="Vidio",  Kompastv
+https://iptv.mwafa.net/vidio/874/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="https://ia801404.us.archive.org/26/items/sinema-indonesia/Trans7.png" group-title="Vidio",  Trans7
+https://iptv.mwafa.net/vidio/734/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="https://ia801404.us.archive.org/26/items/sinema-indonesia/Transtv.png" group-title="Vidio",  TransTV
+https://iptv.mwafa.net/vidio/733/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/20211104-103938/logo_rtv_small1.png" group-title="Vidio",  Rtv
+https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  Daitv
+https://iptv.mwafa.net/vidio/6482/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  ntv
+https://iptv.mwafa.net/vidio/7432/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  Jaktv
+https://iptv.mwafa.net/vidio/5415/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  Mytv
+https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/26/items/sinema-indonesia/Indosiar.png" group-title="Vidio",  Indosiar
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
+
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  O channel
+https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  TVRI
+https://iptv.mwafa.net/vidio/6441/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  Ajwa tv
+https://iptv.mwafa.net/vidio/7464/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  Alquran Kareem
+https://iptv.mwafa.net/vidio/6852/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  Metro tv
+https://iptv.mwafa.net/vidio/777/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/26/items/sinema-indonesia/Mnctv.png" group-title="Vidio",  MNC tv
+https://iptv.mwafa.net/vidio/870/index.m3u8?token=1999
+
+
+#EXTINF:-1 tvg-logo="https://ia801404.us.archive.org/26/items/sinema-indonesia/inews-logo.png" group-title="Vidio",  I news
+https://iptv.mwafa.net/vidio/5409/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  O shop
+https://iptv.mwafa.net/vidio/6166/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  DW
+https://iptv.mwafa.net/vidio/5075/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  Tv edukasi
+https://iptv.mwafa.net/vidio/6838/index.m3u8?token=1999
+
+#EXTINF:-1 tvg-logo="" group-title="Vidio",  Berita satu
+https://iptv.mwafa.net/vidio/6165/index.m3u8?token=1999
