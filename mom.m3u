@@ -1,0 +1,119 @@
+#EXTM3U 
+
+############ MOMZAH #################
+
+#EXTINF:-1 group-title="MOMZAH",Zee Bioskop
+http://tvn.x10.bz/xchannel/master-15.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",SCTV 
+http://tvn.x10.bz/xchannel/master-24.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",SCTV+
+https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",ANTV
+http://tvn.x10.bz/xchannel/master-12.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",ANTV+
+https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",TRANS7 HD
+http://tvn.x10.bz/xchannel/master-30.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",TRANS7+
+https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",TRANSTV
+http://tvn.x10.bz/xchannel/master-31.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",TRANSTV+
+https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",Indosiar liga 1 & 2
+http://tvn.x10.bz/xchannel/master.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",INDOSIAR+
+https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",RCTI
+https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",GLOBALTV
+https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",MNCTV
+https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",NetTv+
+https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",Citra Bioskop 
+http://tvn.x10.bz/xchannel/master-1.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",Citra Drama
+http://tvn.x10.bz/xchannel/master-2.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",LiverpoolTV
+http://tvn.x10.bz/xchannel/master-3.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",Hip Hip horee (Kids)
+http://tvn.x10.bz/xchannel/master-4.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",Horee (Kids)
+http://tvn.x10.bz/xchannel/master-5.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",Champions 1 PRO LIGA
+http://tvn.x10.bz/xchannel/master-6.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",Champions 2
+http://tvn.x10.bz/xchannel/master-7.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",Champions 3
+http://tvn.x10.bz/xchannel/master-8.m3u8
+
+
+#EXTINF:-1 group-title="MOMZAH",Citra Dangdut
+http://tvn.x10.bz/xchannel/master-10.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",Citra Entertainment
+http://tvn.x10.bz/xchannel/master-11.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",TV ONE
+http://tvn.x10.bz/xchannel/master-13.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",TVN 
+http://tvn.x10.bz/xchannel/master-16.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",CHAMPIONS 4
+http://tvn.x10.bz/xchannel/master-17.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",OCHANNEL support Liga & 2
+http://tvn.x10.bz/xchannel/master-18.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",KOMPAS TV
+http://tvn.x10.bz/xchannel/master-19.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",RTV
+http://tvn.x10.bz/xchannel/master-20.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",RANS ENTERTAINMENT
+http://tvn.x10.bz/xchannel/master-21.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",MENTARI TV (KIDS)
+http://tvn.x10.bz/xchannel/master-22.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",METRO TV
+http://tvn.x10.bz/xchannel/master-23.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",ZooMoo
+http://tvn.x10.bz/xchannel/master-25.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",musica studio
+http://tvn.x10.bz/xchannel/master-26.m3u8
+
+#EXTINF:-1 group-title="MOMZAH",prambors
+http://tvn.x10.bz/xchannel/master-28.m3u8
+
+
+
+
