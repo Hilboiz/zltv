@@ -1,5 +1,120 @@
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_animax_small.png" group-title="TV Nasion",ANIMAX
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_animax_small.png" group-title="UseeTv",ANIMAX
 http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=animax&bandwidth=default&sync=0
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_animax_small.png" group-title="TV Nasion",ANAX
-http://group2-swiftservesd-1.dens.tv/s/s07/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_aniplus_small1.png?v=2.0.0.13" group-title="UseeTv",aniPlus
+http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=aniplus&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_antara_big1.png?v=2.0.0.13" group-title="UseeTv",antaraTv
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=68d30a9594728bc39aa24be94b319d21268ef7e5a44f541a7cbde7626ef57566
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_arirang_big.png" group-title="UseeTv",arirang
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=07cdfd23373b17c6b337251c22b7ea57f93fb3c9879684db94f7af38b446022a
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_babyfirst_small.png" group-title="UseeTv",babyfirst
+http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=babyfirst&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_babyfirst_small.png" group-title="UseeTv",babyfirst
+http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=babyfirst&bandwidth=default&sync=0
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.15" group-title="UseeTv",Bein Sport 1
+https://delivery.macan.network/stream/macan_sport_1/playlist.m3u8?token=0t348&v=20200807
+
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_beritasatu_big1.png?v=2.0.0.13" group-title="UseeTv",Bein Sport 1
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=1ff1de774005f8da13f42943881c655f268ef7e5a44f541a7cbde7626ef57566
+
+
+
+#EXTINF:-1 tvg-logo=https://www.useetv.com/pimages/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="UseeTv",Bioskop Indonesia
+"http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo=https://www.useetv.com/pimages/logo_bloomberg_small1.png?" group-title="UseeTv",Bloomberg
+http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=bloomberg&bandwidth=default&sync=0
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_boomerang_small.png" group-title="UseeTv",Boomerang
+http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=boomerang&bandwidth=default&sync=0
+
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cgtndocumentary_big1.png?v=2.0.0.13" group-title="UseeTv",CGTN Documentary
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=9f61408e3afb633e50cdf1b20de6f466f93fb3c9879684db94f7af38b446022a
+
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_cnbcasia_small.png" group-title="UseeTv",CNBC Asia
+http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=cnbcasia&bandwidth=default&sync=0
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_ctiasia_small.png" group-title="UseeTv",CTI Asia
+http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=ctiasia&bandwidth=default&sync=0
+
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_celestialmovie_small.png" group-title="UseeTv",Celestial Movie
+http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=celestialmovie&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_chinesedrama_big.png?v=2.0.0.13" group-title="UseeTv",Chinese Drama
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_daaitv_big1.png?v=2.0.0.13" group-title="UseeTv",DAAI TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=54229abfcfa5649e7003b83dd4755294268ef7e5a44f541a7cbde7626ef57566
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_dwtv_big.png?v=2.0.0.13" group-title="UseeTv",DW English
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=093f65e080a295f8076b1c5722a46aa2dfdded94c48ea6229c48edefa9ec1c9f
+
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_davinci_small1.png?v=2.0.0.13" group-title="UseeTv",Da Vinci
+http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=davinci&bandwidth=default&sync=0
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_duniaanak_small1.png?v=2.0.0.13" group-title="UseeTv",Dunia Anak
+http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=duniaanak&bandwidth=default&sync=0
+
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_dunialain_small.png?v=2.0.0.13" group-title="UseeTv",Dunia Lain
+https://iptvku.my.id/iptv/useehls.m3u8?id=dunialain
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png?v=2.0.0.15" group-title="UseeTv",Egg Network
+https://delivery.macan.network/stream/egg/playlist.m3u8?token=0t348&v=20200807
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_euronews_big1.png?v=2.0.0.13" group-title="UseeTv",Euronews
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=7f39f8317fbdb1988ef4c628eba02591dfdded94c48ea6229c48edefa9ec1c9f
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_france24_big.png?v=2.0.0.13" group-title="UseeTv",France 24
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=e4a6222cdb5b34375400904f03d8e6a5dfdded94c48ea6229c48edefa9ec1c9f
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_formosa_small.png" group-title="UseeTv",Galaxy
+https://ppmk.my.id/cr/useehls.m3u8?id=galaxy
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7gw38Pq/galaxy-premium-home-tv.png" group-title="UseeTv",Galaxy Premium
+https://ppmk.my.id/cr/useehls.m3u8?id=galaxypremium
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P4VzF0H/galaxy-home-tv.png" group-title="UseeTv",Formosa
+http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=formosa&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_horee_small.png?v=2.0.0.13" group-title="UseeTv",Horee
+http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=horee&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_idx_big.png" group-title="UseeTv",IDX
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=1700002963a49da13542e0726b7bb758dfdded94c48ea6229c48edefa9ec1c9f
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_imc_small.png?v=2.0.0.13" group-title="UseeTv",IMC
+http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=imc&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_imc_small.png?v=2.0.0.13" group-title="UseeTv",IMC
+http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=imc&bandwidth=default&sync=0
